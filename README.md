@@ -15,5 +15,5 @@ power through the DC power jack it must be in the range of 7-12v. It is
 possible that your Arduino might run at a lower voltage but this is not
 guaranteed to work and is unreliable.
 
-#[](images/AdafruitMotorShieldSeparatePower_bb.png)
+![](images/AdafruitMotorShieldSeparatePower_bb.png)
 
