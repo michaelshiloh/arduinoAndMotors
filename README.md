@@ -36,5 +36,4 @@ from manufacturer to manufacturer.
 
 ![](images/L298H-BridgeSeparatePower_bb.png)
 
-L298 [Data Sheet]
-(https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf)
+L298 [Data Sheet](https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf)
