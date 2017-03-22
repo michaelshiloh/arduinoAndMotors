@@ -1,7 +1,6 @@
-# Arduino Tutorial: Using an Adafruit Motor Shield V2
+# Arduino Tutorial: Controlling motors from Arduino
 
-
-
+## Using an Adafruit Motor Shield V2
 1. Always use separate power supplies for the Arduino and the motors to avoid
 any possibility of the motor affecting the proper operation of your Arduino.
 This means you should always remove the VIN jumper on the Adafruit Motor
@@ -17,3 +16,8 @@ guaranteed to work and is unreliable.
 
 ![](images/AdafruitMotorShieldSeparatePower_bb.png)
 
+Adafruit motor shield V2
+[tutorial](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino?view=all)
+
+
+## Using a generic H-bridge module
